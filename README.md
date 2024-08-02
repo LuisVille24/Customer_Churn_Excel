@@ -8,7 +8,7 @@ With the rapid development of telecommunication industry, the service providers 
 
 ## Dashboard/Analysis
 
-![dashboard](images/dashboard.png)
+![dashboard](images/Customer_Churn_Updated.png)
 
 ## Insights
 - 14.49% of the 3,333 customers have churned.
